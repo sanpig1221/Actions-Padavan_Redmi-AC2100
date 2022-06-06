@@ -13,4 +13,4 @@
 # 修改Padavan登陆地址
 sed -i 's/192.168.2.1"/192.168.1.1"/' trunk/user/shared/defaults.h
 sed -i 's/192.168.2.100/192.168.1.100/' trunk/user/shared/defaults.h
-sed -i 's/192.168.2.244/192.168.2.254/' trunk/user/shared/defaults.h
+sed -i 's/192.168.2.244/192.168.1.254/' trunk/user/shared/defaults.h
